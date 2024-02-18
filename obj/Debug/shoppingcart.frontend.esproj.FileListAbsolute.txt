@@ -1,0 +1,1 @@
+D:\Code\ShoppingCart\ShoppingCart.FrontEnd\obj\Debug\shoppingcart.frontend.esproj.CoreCompileInputs.cache
